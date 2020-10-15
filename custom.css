@@ -5,6 +5,7 @@ h1{
 ul.nav li{
   display:inline;
   padding:10px;
+  width:50px;
 }
 ul.nav li a{
   display:block;
